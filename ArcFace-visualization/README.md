@@ -2,11 +2,9 @@
 
 This is an reimplementation of toy examples in the paper [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698). 
 
-![paper](paper.JPG?raw=true)
 
-![](2d_arcface_toy.mp4?raw=true)
 
-<video src="2d_arcface_toy.mp4?raw=true"></video>
+<video src="2d_arcface_toy.mp4"></video>
 
 ### Details
 
