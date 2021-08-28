@@ -4,7 +4,7 @@ This is an reimplementation of toy examples in the paper [ArcFace: Additive Angu
 
 ![paper](paper.JPG?raw=true)
 
-
+![](2d_arcface_toy.mp4?raw=true)
 
 <video src="2d_arcface_toy.mp4?raw=true"></video>
 
@@ -23,12 +23,12 @@ Further implementation details can be found on Colab notebooks on [FashionMNIST-
 
 * 2d
 
-  * epoch 1![epoch0](epochs\epoch0.png?raw=true)
-  * epoch 10![epoch10](epochs\epoch10.png?raw=true)
+  * epoch 1![epoch0](epochs/epoch0.png?raw=true)
+  * epoch 10![epoch10](epochs/epoch10.png?raw=true)
 
-  * epoch 20![epoch21](epochs\epoch21.png?raw=true)
+  * epoch 20![epoch21](epochs/epoch21.png?raw=true)
 
-  * epoch 30![epoch28](epochs\epoch28.png?raw=true)
+  * epoch 30![epoch28](epochs/epoch28.png?raw=true)
 
 * 3d
   * Left: Softmax / Right: ArcFace![3d](3d.JPG?raw=true)
