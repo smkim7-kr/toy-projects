@@ -33,5 +33,14 @@ Further implementation details can be found on Colab notebooks on [FashionMNIST-
 
 ### References
 
+```
+@inproceedings{deng2018arcface,
+title={ArcFace: Additive Angular Margin Loss for Deep Face Recognition},
+author={Deng, Jiankang and Guo, Jia and Niannan, Xue and Zafeiriou, Stefanos},
+booktitle={CVPR},
+year={2019}
+}
+```
+
 * https://github.com/sweetcocoa/toy/tree/master/arcface by sweetcocoa
 
